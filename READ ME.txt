@@ -1,0 +1,11 @@
+MenuSRC is a small project, bugs may appear but mainly it functions perfectly. Refer to the licencing below for OSRC usage.
+======================================================================================
+DISCLAIMER
+Most of it was finished in 1 day, bugs will appear and they will be fixed next build. You may fix them yourself if you wish.
+======================================================================================
+LICENCING
+1. You may use this for your own accord, there is a reason why it is OSRC. Use responsably.
+2. Stealing my code and reposting it on your own repository will get your repository banned and your account possibly punished.
+3. I do not care what you use this for.
+======================================================================================
+I hope you enjoy my project.
